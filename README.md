@@ -1,1 +1,2 @@
-# Brachistochrone Calc Mk2
+:)
+pretty self explanatory
